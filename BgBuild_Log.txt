@@ -1,0 +1,13 @@
+// Copyright 2017 Silicon Laboratories, Inc.
+//
+//
+
+Executing: bgbuild.exe
+Output:
+ALL OK
+
+Error:
+Unknown option 'n'.
+WARNING: 2a21 length attribute is 2 but actual value length is 1. 2 will be used.
+
+
